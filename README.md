@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PAVEL-MIHAI.github.io/rsschool-cv/cv
