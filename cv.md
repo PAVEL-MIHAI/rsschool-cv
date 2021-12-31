@@ -1,11 +1,11 @@
 # PAVEL MIHAI
 ---
 # Contacts:
-Minsk
-E-mail: moyapoch.1@gmail.com
-Tel: +375 25 5329987
+### Minsk
+### E-mail: moyapoch.1@gmail.com
+### Tel: +375 25 5329987
 # About myself:
-I want to learn Front-End Development in RSSchool.
+### I want to learn Front-End Development in RSSchool.
 
 # Code example:
 ```
@@ -20,11 +20,11 @@ function fizzbuzz(n)
 }
 ```
 # Work experience:
-No
+### No
 
 # Education and courses:
-JS, CSS, HTML, Git video courses on YouTube channels
-JavaScript https://learn.javascript.ru/
+### JS, CSS, HTML, Git video courses on YouTube channels
+### JavaScript https://learn.javascript.ru/
 
 # Language:
-English level - A2
+### English level - A2
