@@ -1,2 +1,2 @@
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+# https://https://PAVEL-MIHAI.github.io/rsschool-cv/cv
+# https://PAVEL-MIHAI.github.io/rsschool-cv/
