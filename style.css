@@ -1,3 +1,9 @@
-p {color: blue;
+body {
+    display: flex;
+    justify-content: center;
+}
 
+#avatar {
+    border: 2px solid rgb(184, 178, 178);
+    border-radius: 8px;
 }
